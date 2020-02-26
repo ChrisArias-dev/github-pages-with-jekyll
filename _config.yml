@@ -1,6 +1,7 @@
 title: This Blog belongs to ChrisDev
 author: ChrisArias-dev
 email: your-email@domain.com
+theme: minima
 description: > # this means to ignore newlines until "baseurl:"
   This blog is a combation of what I love and it is a great example of what a Blog should be like.
 
